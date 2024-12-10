@@ -1,0 +1,2 @@
+# mina
+diseño de mallas
